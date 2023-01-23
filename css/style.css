@@ -303,7 +303,7 @@ h3.menu-item-title {
 }
 
 
-/********** Medium devices only **********/
+/*Medium devices */
 
 @media (min-width: 992px) and (max-width: 1199px) {
     /* Header */
@@ -323,7 +323,7 @@ h3.menu-item-title {
 }
 
 
-/********** Small devices only **********/
+/*Small devices only */
 
 @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
@@ -335,7 +335,7 @@ h3.menu-item-title {
 }
 
 
-/********** Extra small devices only **********/
+/*Extra small devices only */
 
 @media (max-width: 767px) {
     /* Header */
@@ -419,7 +419,7 @@ h3.menu-item-title {
 }
 
 
-/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+/**extra small**/
 
 @media (max-width: 479px) {
     /* Header */
